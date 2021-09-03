@@ -1,0 +1,36 @@
+#player_question,
+#player_answer {
+	font-size: 18px;
+}
+
+body {
+	background-image: url("download.jpg");
+	background-size: cover;
+	color: white;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 20px solid #87CEEB;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	color: black;
+	font-size: 15px;
+}
+
+
+#p1_name , #p2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#n1, #n2 
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
